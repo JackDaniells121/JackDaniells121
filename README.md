@@ -1,4 +1,4 @@
-- 👋  Hi, I’m @JackDaniells121
+- 👋    Hi, I’m @JackDaniells121
 - 👀  I’m interested in php/webdev
 - 🌱  I’m currently learning codeigniter
 - 🤟🏼  like to watch [John Hammond](https://www.youtube.com/channel/UCVeW9qkBjo3zosnqUbG7CFw) for fun and educational reasosn 
