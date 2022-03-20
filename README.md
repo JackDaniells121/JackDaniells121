@@ -8,7 +8,7 @@
   - 📨  _ j-a-k-u-b-.-u-j-w-a-r-y-@-g-m-a-i-l-.-c-o-m
 
 Bonus :
-- Netflix http requests analysis - (Youtube)[https://www.youtube.com/watch?v=MxFt3YsjyQg]
+- Netflix http requests analysis - [Youtube](https://www.youtube.com/watch?v=MxFt3YsjyQg)
 <!---
 JackDaniells121/JackDaniells121 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
