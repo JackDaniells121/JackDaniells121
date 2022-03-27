@@ -8,6 +8,7 @@
   - 📨  _ j-a-k-u-b-.-u-j-w-a-r-y-@-g-m-a-i-l-.-c-o-m
 
 Bonus :
+- [Programmers are also humans](https://www.youtube.com/channel/UCi8C7TNs2ohrc6hnRQ5Sn2w)
 - [Netflix backend](https://www.youtube.com/watch?v=MxFt3YsjyQg)
 - [CI/CD pipeline](https://www.youtube.com/watch?v=OPwU3UWCxhw)
 <!---
