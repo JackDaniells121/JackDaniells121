@@ -9,7 +9,7 @@
 
 Bonus :
 - [Netflix backend](https://www.youtube.com/watch?v=MxFt3YsjyQg)
-- [CI/CD](https://www.youtube.com/watch?v=OPwU3UWCxhw)
+- [CI/CD pipeline](https://www.youtube.com/watch?v=OPwU3UWCxhw)
 <!---
 JackDaniells121/JackDaniells121 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
