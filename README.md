@@ -10,6 +10,7 @@
 Bonus :
 - [Programmers are also humans](https://www.youtube.com/channel/UCi8C7TNs2ohrc6hnRQ5Sn2w)
 - [Netflix backend](https://www.youtube.com/watch?v=MxFt3YsjyQg)
+- [You need to stop using pull requests](https://www.youtube.com/watch?v=ASOSEiJCyEM)
 - [CI/CD pipeline](https://www.youtube.com/watch?v=OPwU3UWCxhw)
 - [Tesla Giga Berlin - March 2022](https://www.youtube.com/watch?v=7-4yOx1CnXE)
 - [Tesla Giga Texas - Cyber Rodeo - April 2022](https://www.youtube.com/watch?v=fiwUE_2JhvY)
