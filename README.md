@@ -9,6 +9,7 @@
 
 Bonus :
 - [Programmers are also humans](https://www.youtube.com/channel/UCi8C7TNs2ohrc6hnRQ5Sn2w)
+- [HackTheBox - Toby - php reverse hacking](https://www.youtube.com/watch?v=XROkuXKgeg8)
 - [Netflix backend](https://www.youtube.com/watch?v=MxFt3YsjyQg)
 - [You need to stop using pull requests](https://www.youtube.com/watch?v=ASOSEiJCyEM)
 - [CI/CD pipeline](https://www.youtube.com/watch?v=OPwU3UWCxhw)
