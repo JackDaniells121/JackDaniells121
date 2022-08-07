@@ -1,5 +1,4 @@
 - 👋  _ Hi, I’m @JackDaniells121
-- ❤️ _ Would love to work with this guys [Amsterdam Standard](https://www.youtube.com/watch?v=qxzx7Gy4vJs)
 - 👀  _ I’m interested in php/webdev
 - 🌱  _ I’m currently learning [design patterns](https://www.youtube.com/watch?v=tv-_1er1mWI) and frontend frameworks like [Vue](https://vuejs.org/) or [React](https://reactjs.org)
 - 🤟🏼  _ like to watch [John Hammond](https://www.youtube.com/channel/UCVeW9qkBjo3zosnqUbG7CFw) or [FireShip](https://www.youtube.com/c/Fireship) for fun and educational reasons
