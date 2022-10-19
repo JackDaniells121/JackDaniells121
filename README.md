@@ -12,8 +12,6 @@ Bonus :
 - [PHP 8.0 DTO](https://www.youtube.com/watch?v=35QmeoPLPOQ)
 - [HackTheBox - Toby - php reverse hacking](https://www.youtube.com/watch?v=XROkuXKgeg8)
 - [Netflix backend](https://www.youtube.com/watch?v=MxFt3YsjyQg)
-- [You need to stop using pull requests](https://www.youtube.com/watch?v=ASOSEiJCyEM)
-- [CI/CD pipeline](https://www.youtube.com/watch?v=OPwU3UWCxhw)
 - [Tesla Giga Berlin - March 2022](https://www.youtube.com/watch?v=7-4yOx1CnXE)
 - [Tesla Giga Texas - Cyber Rodeo - April 2022](https://www.youtube.com/watch?v=fiwUE_2JhvY)
 <!---
