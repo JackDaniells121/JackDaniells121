@@ -10,6 +10,7 @@ Bonus :
 - [Programmers are also humans](https://www.youtube.com/channel/UCi8C7TNs2ohrc6hnRQ5Sn2w)
 - [Analyze ChatGPT backend](https://www.youtube.com/watch?v=d41wkF1sWuc)
 - [PHP 8.0 DTO](https://www.youtube.com/watch?v=35QmeoPLPOQ)
+- [What happened to google search?](youtube.com/watch?v=48AOOynnmqU)
 - [HackTheBox - Toby - php reverse hacking](https://www.youtube.com/watch?v=XROkuXKgeg8)
 - [Netflix backend](https://www.youtube.com/watch?v=MxFt3YsjyQg)
 - [Tesla Giga Berlin - March 2022](https://www.youtube.com/watch?v=7-4yOx1CnXE)
