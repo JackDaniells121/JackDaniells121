@@ -7,6 +7,7 @@
   - 📨  _ j-a-k-u-b-.-u-j-w-a-r-y-@-g-m-a-i-l-.-c-o-m
 
 Bonus :
+- [LV Sphere](https://www.youtube.com/watch?v=v3uRvJcM3z8) 08/2023
 - [Wireless energy - TED talks](https://www.youtube.com/watch?v=RxrB7PDLJ18) 05/2023
 - [Visualization of neural network](https://www.youtube.com/watch?v=Tsvxx-GGlTg)
 - [Programmers are also humans](https://www.youtube.com/channel/UCi8C7TNs2ohrc6hnRQ5Sn2w)
@@ -15,8 +16,6 @@ Bonus :
 - [What happened to google search?](youtube.com/watch?v=48AOOynnmqU)
 - [HackTheBox - Toby - php reverse hacking](https://www.youtube.com/watch?v=XROkuXKgeg8)
 - [Netflix backend](https://www.youtube.com/watch?v=MxFt3YsjyQg)
-- [Tesla Giga Berlin - March 2022](https://www.youtube.com/watch?v=7-4yOx1CnXE)
-- [Tesla Giga Texas - Cyber Rodeo - April 2022](https://www.youtube.com/watch?v=fiwUE_2JhvY)
 <!---
 JackDaniells121/JackDaniells121 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
