@@ -7,9 +7,6 @@
   - 📨  _ j-a-k-u-b-.-u-j-w-a-r-y-@-g-m-a-i-l-.-c-o-m
 
 Bonus :
-- [Backflip](https://www.youtube.com/watch?v=1zUJzzRu-xs) 09/2023
-- [LV Sphere](https://www.youtube.com/watch?v=v3uRvJcM3z8) 08/2023
-- [Wireless energy - TED talks](https://www.youtube.com/watch?v=RxrB7PDLJ18) 05/2023
 - [Visualization of neural network](https://www.youtube.com/watch?v=Tsvxx-GGlTg)
 - [Programmers are also humans](https://www.youtube.com/channel/UCi8C7TNs2ohrc6hnRQ5Sn2w)
 - [Analyze ChatGPT backend](https://www.youtube.com/watch?v=d41wkF1sWuc)
